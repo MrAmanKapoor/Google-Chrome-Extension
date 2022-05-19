@@ -8,7 +8,7 @@
 - Download all files
 - Open your chrome browser
 - Open your Extensios Tool
-- On your Developer Mode
+- Turn on your Developer Mode
 - Click on Load unpacked button
 - Select Bad Jokes Folder
 - Select your manifest.json file
