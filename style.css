@@ -1,0 +1,31 @@
+body
+{
+ 
+    background-color:transparent;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    border-top-left-radius:50px ;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border: 5px solid red;
+    margin: 0;
+    box-shadow: 10px 10px 1px 35px red;
+}
+
+#jokes
+{
+    display: inline-flex;
+    justify-content: center;
+    width: 300px;
+    margin: auto;
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+}
+#jokes0,#jokes1,#jokes2,#jokes3,#jokes4
+{
+    display: none;
+}
