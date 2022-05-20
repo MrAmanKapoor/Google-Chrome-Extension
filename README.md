@@ -5,7 +5,7 @@
   <h3> If you want to test this extension , So follow all steps.</h3>
 </div>
 
-- Download all files
+- Download Zip Folder
 - Open your chrome browser
 - Open your Extensios Tool
 - Turn on your Developer Mode
